@@ -1,4 +1,4 @@
-# Day 4 Task: Basic Linux Shell Scripting for DevOps Engineers.
+# Day 3 Task: Basic Linux Shell Scripting for DevOps Engineers.
 
  ## What is Kernel
 
