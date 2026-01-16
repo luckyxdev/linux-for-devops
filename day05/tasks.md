@@ -23,6 +23,4 @@
 
 3) Read about ACL and try out the commands `getfacl` and `setfacl`
 
-In case of any doubts, post it on [Discord Community](https://discord.gg/hs3Pmc5F)
-
 Happy Learning
