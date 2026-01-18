@@ -39,7 +39,3 @@
  eg. `systemctl status docker` vs `service docker status`
 
 For Reference, read [this](https://www.howtogeek.com/devops/how-to-check-if-the-docker-daemon-or-a-container-is-running/#:~:text=Checking%20With%20Systemctl&text=Check%20what%27s%20displayed%20under%20%E2%80%9CActive,running%20sudo%20systemctl%20start%20docker%20.)
-
-
-#### Post about this and bring your friends to this #90DaysOfDevOps challenge.
-
